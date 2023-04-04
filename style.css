@@ -1,0 +1,9 @@
+.paragraph{
+    margin-bottom: 0;
+}
+@media (max-width:1199.2px) {
+    .card{
+        margin-top: 10px;
+    }
+    
+}
